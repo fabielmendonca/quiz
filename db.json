@@ -1,0 +1,18 @@
+{
+  "bg": "https://uc3b022995f80725b5096d9b2abb.previews.dropboxusercontent.com/p/thumb/ABGamrW8mMBGsZ-vk0ZeyEaVLQzHYqwWJ20wYMPeUG9CGStZ94DyzMq9FRn8rFPTXXmG8N4jBEvsdH6RLu8sGXXmaNgG5uRqEhP6Fug_xD-9zcVd0tYtE4jGJCScbbGP6CE8hx7RSZoty4EcHSWwYxRrGz6B2Nf8zl5af62egcBoHsFzg4ObZ_3QQds8bIK8TcDS_65aqFk7Sh0ct6Qih0acpd9kdTkhqd8uSj-1ekwSkGLAL2Khcs-ha0Jax6p1UDEDGI_jv3McAZ2iigggcbrFmKH3pbY14JWEYZ2_eehq_g5ATIAy9767vTEjFWJYTs8j-s558q4IRtXq1rWlSszxL04Vy32SuQ7AWUbe2bSvAW0HshIEpNLtmZN13EYR4zFBKRUmeZlVbfiUaLoBvikN/p.png?fv_content=true&size_mode=5",
+  "title": "Título do Quiz",
+  "description": "Descrição do seu Quiz",
+  "questions": [],
+  "external": [],
+  "theme": {
+    "colors": {
+      "primary": "#4CAF50",
+      "secondary": "#FF9800",
+      "mainBg": "#1C1814",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
